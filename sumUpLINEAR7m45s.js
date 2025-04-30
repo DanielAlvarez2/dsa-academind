@@ -9,3 +9,5 @@ function sumUp(n){
     return result
 }
 console.log(sumUp(10000000000))
+
+// this function has a LINEAR TIME COMPLEXTY or Big O(n)
