@@ -14,3 +14,4 @@ arraySum(arr)
 console.log(arr)
 
 // Big O(n)
+// Linear Time Complexity
