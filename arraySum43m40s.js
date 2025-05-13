@@ -12,3 +12,5 @@ function arraySum(arr){
 }
 arraySum(arr)
 console.log(arr)
+
+// Big O(n^2)
